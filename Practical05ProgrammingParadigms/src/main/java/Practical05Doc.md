@@ -1,3 +1,3 @@
-![Код](https://i.ibb.co/Qm85286/image.png)
+![Код](https://i.ibb.co/fv49JCC/image.jpg)
 
-![Результат выполнения кода](https://i.ibb.co/YL9qtcL/image.png)
+![Результат выполнения кода](https://i.ibb.co/T4b04pz/image.jpg)
