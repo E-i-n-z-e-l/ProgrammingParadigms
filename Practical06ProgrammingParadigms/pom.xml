@@ -3,19 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.example</groupId>
+        <artifactId>ProgrammingParadigms</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>org.example</groupId>
-    <artifactId>ProgrammingParadigms</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>Practical01ProgrammingParadigms</module>
-        <module>Practical02ProgrammingParadigms</module>
-        <module>Practical03ProgrammingParadigms</module>
-        <module>Practical04ProgrammingParadigms</module>
-        <module>Practical05ProgrammingParadigms</module>
-        <module>Practical06ProgrammingParadigms</module>
-    </modules>
+    <artifactId>Practical06ProgrammingParadigms</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
